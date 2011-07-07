@@ -19,6 +19,15 @@ And simplify things:
     ==>π
     ½τ ≅ 3.1415927
 
+Even does stuff that might be construed as basic computer algebra! Oh my!
+
+    ==>3(1+τ)*(1+e)²
+    3 + 6e + 3e*e + 3τ + 6τ*e + 3τ*e*e ≅ 302.08362
+    ==>sqrt(12)
+    2√(3) ≅ 3.4641016
+
+
+
 Why?
 ----
 
